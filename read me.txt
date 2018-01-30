@@ -1,0 +1,11 @@
+/*
+ *  Mail : subinpvasu@gmail.com
+ *  Skype : subinpvasu 
+ *  AdWords API integration
+ */
+ 
+ 
+ 1. Keep the files in the same location.
+ 2. Use your own credentials in the Credentials class (paulwayn\Adwords\Credentials.php)
+ 3. Get back to me for any other queries related and for further development, if any.
+ 4. Thanks!
